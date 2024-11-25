@@ -8,7 +8,7 @@
 
 <h1 align="center">
     <div align="center">
-       <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=80F738&center=true&width=435&lines=Giggle%2C+what's+your+interest%3F;Are+you+doing+something+you+are+insterested+in+%3F;Never+be+a+boring+man~" alt="Typing SVG" /></a>
+       <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=80F738&width=600&height=100&center=true&width=435&lines=Giggle%2C+what's+your+interest%3F;Are+you+doing+something+you+are+insterested+in+%3F;Never+be+a+boring+man~" alt="Typing SVG" /></a>
     </div>
 </h1>
 
