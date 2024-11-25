@@ -1,7 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=EdogawaAi.EdogawaAi" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Giggle+Wang!🥤;" />
+    <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="http://readme-typing-svg.herokuapp.com?font=Parkinsans&weight=600&size=30&pause=1000&color=27F7F5&background=FFFFFF&center=true&vCenter=true&width=435&lines=hello!+I+am+Giggle+Wang+%F0%9F%91%BE;wish+you+have+a+nice+day%F0%9F%8C%9E;no+error+and+warning%F0%9F%90%92" alt="Typing SVG" />
+  </a>
+</div>
 </h1>
 
 <br/>
