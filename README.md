@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I am an undergraduate majoring in Software Engineering at Shanghai Jiao Tong University
+- 🌱 I’m currently learning Operation System & Machine Learning System
+- 💬 Ask me about anything i am able to answer ~
+- 📫 How to reach me: 2386181363@qq.com OR sjtuwangyx@sjtu.edu.cn
