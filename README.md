@@ -5,11 +5,6 @@
         </a>
     </div>
 </h1>
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; overflow: hidden;align="center";">
-    <a href="https://git.io/typing-svg">
-        <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=80F738&width=800&height=200&lines=Giggle%2C+what's+your+interest%3F;Are+you+doing+something+you+are+interested+in%3F;Never+be+a+boring+man~" alt="Typing SVG" />
-    </a>
-</div>
 
 
 
@@ -64,3 +59,8 @@
 <br/><br/>
 <hr style="height:2px;border:none;color:#333;background-color:#333;" />
 <br/>
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh; overflow: hidden;align="center";">
+    <a href="https://git.io/typing-svg">
+        <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=80F738&width=800&height=200&lines=Giggle%2C+what's+your+interest%3F;Are+you+doing+something+you+are+interested+in%3F;Never+be+a+boring+man~" alt="Typing SVG" />
+    </a>
+</div>
