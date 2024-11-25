@@ -1,5 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=EdogawaAi.EdogawaAi" />
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GiggleWang.GiggleWang&color=blue&style=flat" />
 <h1 align="center">
     <div align="center">
         <a href="https://git.io/typing-svg">
@@ -7,7 +6,6 @@
         </a>
     </div>
 </h1>
-<br/>
 
 <div align="center">
 
