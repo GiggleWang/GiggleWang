@@ -8,13 +8,13 @@
 
 <div align="center">
 
-- 🔭 I am an undergraduate majoring in Software Engineering at Shanghai Jiao Tong University
+🔭 I am an undergraduate majoring in Software Engineering at Shanghai Jiao Tong University
 
-- 🌱 I’m currently learning Operation System & Machine Learning System
+🌱 I’m currently learning Operation System & Machine Learning System
 
-- 💬 Ask me about anything i am able to answer ~
+💬 Ask me about anything i am able to answer ~
 
-- 📫 How to reach me: 2386181363@qq.com OR sjtuwangyx@sjtu.edu.cn
+📫 How to reach me: 2386181363@qq.com OR sjtuwangyx@sjtu.edu.cn
 
 </div>
 
@@ -36,8 +36,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cmake,rust,python,gitlab,golang,docker,kubernetes" />
-    <img src="https://skillicons.dev/icons?i=markdown,latex,vscode,clion,obsidian,anaconda,github,apple" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,cmake,rust,python,gitlab,golang,docker" />
+    <img src="https://skillicons.dev/icons?i=markdown,latex,vscode,clion,anaconda,github,apple" /><br>
 </div>
 
 
@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/EdogawaAi/EdogawaAi/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/GiggleWang/GiggleWang/output/github-contribution-grid-snake.svg" />
 
   <br/><br/><br/>
 </div>
