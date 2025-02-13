@@ -51,8 +51,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <!-- Streak Stats -->
-  <img width=390 src="https://streak-stats.demolab.com/?user=GiggleWang&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <!-- General GitHub Stats -->
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=GiggleWang&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
