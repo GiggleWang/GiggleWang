@@ -16,7 +16,7 @@
 
 💬 Ask me about anything i am able to answer ~
 
-📫 How to reach me: 2386181363@qq.com OR sjtuwangyx@sjtu.edu.cn OR gordon.yixiaowang@gmail.com
+📫 How to reach me: 2386181363@qq.com OR yixiaowang@sjtu.edu.cn OR gordon.yixiaowang@gmail.com
 
 </div>
 
@@ -25,7 +25,7 @@
   <a href="mailto:2386181363@qq.com">
     <img src="https://img.shields.io/badge/QQmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="mailto:sjtuwangyx@sjtu.edu.cn">
+  <a href="mailto:yixiaowang@sjtu.edu.cn">
     <img src="https://img.shields.io/badge/SJTUmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="mailto:gordon.yixiaowang@gmail.com">
